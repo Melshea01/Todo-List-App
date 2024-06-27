@@ -1,0 +1,65 @@
+/* Navbar.css */
+.navbar {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    background-color: #ffffff;
+    padding: 1rem;
+  }
+  
+  .navbar-brand a {
+    color: rgb(0, 0, 0);
+    text-decoration: none;
+    font-size: 1.5rem;
+  }
+  
+  .navbar-links {
+    list-style: none;
+    display: flex;
+    margin: 0;
+    padding: 0;
+  }
+  
+  .navbar-links li {
+    margin-left: 1.5rem;
+  }
+  
+  .navbar-links a {
+    color: rgb(0, 0, 0);
+    text-decoration: none;
+    font-size: 1rem;
+  }
+  
+  .navbar-links a:hover {
+    text-decoration: underline;
+  }
+
+  .logo-container {
+    display: flex; 
+    align-items: center;
+    gap:10px; 
+  }
+
+.logo-container img {
+    width: 30px;
+    height: 30px;
+}
+
+.logo-container a {
+    font-family: 'Inter', sans-serif;
+    font-size: 24px;
+}
+
+.logo-container a .highlight {
+    color: #5247FE; /* Exemple de couleur */
+    font-size: 26px; /* Exemple de taille différente */
+}
+
+.navbar-button {
+  display: flex;
+  column-gap: 15px; /* Vous pouvez ajuster la valeur de gap selon l'espacement souhaité */
+}
+
+
+
+  

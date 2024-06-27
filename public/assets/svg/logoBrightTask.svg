@@ -1,0 +1,292 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="120"
+   height="120"
+   viewBox="0 0 120 120"
+   version="1.1"
+   id="svg1"
+   inkscape:version="1.3.2 (091e20e, 2023-11-25, custom)"
+   sodipodi:docname="logoBrightTask.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview1"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:document-units="px"
+     inkscape:zoom="3.2791667"
+     inkscape:cx="102.1601"
+     inkscape:cy="33.087675"
+     inkscape:window-width="1920"
+     inkscape:window-height="1001"
+     inkscape:window-x="-9"
+     inkscape:window-y="-9"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer1" />
+  <defs
+     id="defs1">
+    <filter
+       inkscape:collect="always"
+       style="color-interpolation-filters:sRGB"
+       id="filter144-6"
+       x="-0.15493927"
+       y="-0.16464944"
+       width="1.3098785"
+       height="1.3292989"
+       inkscape:label="Roughen Inside"
+       inkscape:menu="Distort"
+       inkscape:menu-tooltip="Roughen all inside shapes">
+      <feGaussianBlur
+         inkscape:collect="always"
+         stdDeviation="1.9893251"
+         id="feGaussianBlur144-9"
+         result="fbSourceGraphic" />
+      <feColorMatrix
+         result="fbSourceGraphicAlpha"
+         in="fbSourceGraphic"
+         values="0 0 0 -1 0 0 0 0 -1 0 0 0 0 -1 0 0 0 0 1 0"
+         id="feColorMatrix145-0" />
+      <feTurbulence
+         id="feTurbulence145-6"
+         numOctaves="5"
+         seed="0"
+         type="fractalNoise"
+         baseFrequency="0.08" />
+      <feGaussianBlur
+         id="feGaussianBlur145-8"
+         stdDeviation="0.5"
+         result="result91" />
+      <feDisplacementMap
+         id="feDisplacementMap145-3"
+         scale="20"
+         yChannelSelector="G"
+         xChannelSelector="R"
+         in="fbSourceGraphic"
+         result="result1"
+         in2="result91" />
+      <feComposite
+         id="feComposite145-6"
+         in="result1"
+         in2="fbSourceGraphic"
+         operator="atop" />
+    </filter>
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient137"
+       id="linearGradient138"
+       x1="47.098969"
+       y1="159.70953"
+       x2="46.040661"
+       y2="82.646759"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(3.7795276,0,0,3.7795276,3.3706055e-6,-1e-6)" />
+    <linearGradient
+       id="linearGradient137"
+       inkscape:collect="always">
+      <stop
+         style="stop-color:#2c57cc;stop-opacity:0.85209006;"
+         offset="0"
+         id="stop137" />
+      <stop
+         style="stop-color:#fffff7;stop-opacity:1;"
+         offset="0.62053573"
+         id="stop138" />
+    </linearGradient>
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient142"
+       id="linearGradient138-0"
+       x1="17.230223"
+       y1="39.367069"
+       x2="17.572546"
+       y2="3.6514385"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(3.7795276,0,0,3.7795276,3.3706055e-6,-1e-6)" />
+    <linearGradient
+       id="linearGradient142"
+       inkscape:collect="always">
+      <stop
+         style="stop-color:#1d00ff;stop-opacity:0.90663391;"
+         offset="0"
+         id="stop141" />
+      <stop
+         style="stop-color:#3349ff;stop-opacity:0.53562653;"
+         offset="0.9982301"
+         id="stop142" />
+    </linearGradient>
+    <filter
+       inkscape:collect="always"
+       style="color-interpolation-filters:sRGB"
+       id="filter144"
+       x="-0.15493927"
+       y="-0.16464944"
+       width="1.3098785"
+       height="1.3292989"
+       inkscape:label="Roughen Inside"
+       inkscape:menu="Distort"
+       inkscape:menu-tooltip="Roughen all inside shapes">
+      <feGaussianBlur
+         inkscape:collect="always"
+         stdDeviation="1.9893251"
+         id="feGaussianBlur144"
+         result="fbSourceGraphic" />
+      <feColorMatrix
+         result="fbSourceGraphicAlpha"
+         in="fbSourceGraphic"
+         values="0 0 0 -1 0 0 0 0 -1 0 0 0 0 -1 0 0 0 0 1 0"
+         id="feColorMatrix145" />
+      <feTurbulence
+         id="feTurbulence145"
+         numOctaves="5"
+         seed="0"
+         type="fractalNoise"
+         baseFrequency="0.08" />
+      <feGaussianBlur
+         id="feGaussianBlur145"
+         stdDeviation="0.5"
+         result="result91" />
+      <feDisplacementMap
+         id="feDisplacementMap145"
+         scale="20"
+         yChannelSelector="G"
+         xChannelSelector="R"
+         in="fbSourceGraphic"
+         result="result1"
+         in2="result91" />
+      <feComposite
+         id="feComposite145"
+         in="result1"
+         in2="fbSourceGraphic"
+         operator="atop" />
+    </filter>
+  </defs>
+  <g
+     inkscape:label="Calque 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <g
+       id="g115-7-6"
+       transform="matrix(2.1106839,0,0,2.0367133,-91.872556,-125.16897)"
+       style="mix-blend-mode:normal;fill:#fcff6c;fill-opacity:1;stroke:none;stroke-opacity:1;filter:url(#filter144-6)">
+      <g
+         id="g144-4"
+         style="fill:#fcff6c;fill-opacity:1">
+        <rect
+           style="opacity:0.936046;fill:#fcff6c;fill-opacity:1;stroke:none;stroke-width:2.5884;stroke-linecap:square;stroke-linejoin:miter;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:stroke fill markers"
+           id="rect114-6-3"
+           width="20.947701"
+           height="5.2035689"
+           x="101.74594"
+           y="40.654388"
+           ry="4.7132831"
+           rx="5.0353923"
+           transform="rotate(38.279901)" />
+        <rect
+           style="opacity:1;fill:#fcff6c;fill-opacity:1;stroke:none;stroke-width:2.3814;stroke-linecap:square;stroke-linejoin:miter;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:stroke fill markers"
+           id="rect115-6-2"
+           width="5.6252255"
+           height="42.861488"
+           x="114.2606"
+           y="24.753151"
+           rx="3.6166174"
+           ry="3.5660563"
+           transform="matrix(0.88527961,0.46505915,-0.55695635,0.83054177,0,0)" />
+      </g>
+    </g>
+    <rect
+       style="display:inline;opacity:0.794486;fill:url(#linearGradient138);fill-opacity:1;stroke:none;stroke-width:6.77459;stroke-linecap:square;stroke-linejoin:miter;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:stroke fill markers"
+       id="rect111"
+       width="120"
+       height="120"
+       x="0"
+       y="0"
+       ry="21.179874"
+       rx="21.179874" />
+    <rect
+       style="display:inline;fill:url(#linearGradient138-0);fill-opacity:1;stroke:none;stroke-width:6.77459;stroke-linecap:square;stroke-linejoin:miter;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:stroke fill markers"
+       id="rect111-3"
+       width="120"
+       height="120"
+       x="0"
+       y="0"
+       ry="21.179874"
+       rx="21.179874" />
+    <ellipse
+       style="fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:6.89948;stroke-linecap:square;stroke-linejoin:miter;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:stroke fill markers"
+       id="path145"
+       cx="94.884987"
+       cy="94.209412"
+       rx="8.2789183"
+       ry="8.626627" />
+    <ellipse
+       style="fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:4.36398;stroke-linecap:square;stroke-linejoin:miter;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:stroke fill markers"
+       id="path145-6"
+       cx="95.15506"
+       cy="30.987026"
+       rx="5.5383983"
+       ry="5.1589928" />
+    <g
+       id="g115"
+       transform="matrix(2.1106839,0,0,2.0367133,-91.872556,-125.16896)"
+       style="fill:#ffffff;fill-opacity:1">
+      <rect
+         style="opacity:1;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:2.60361;stroke-linecap:square;stroke-linejoin:miter;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:stroke fill markers"
+         id="rect114"
+         width="21.019777"
+         height="5.2468472"
+         x="101.32985"
+         y="39.615284"
+         ry="4.7109613"
+         rx="3.0296664"
+         transform="matrix(0.77865403,0.62745351,-0.61152875,0.79122222,0,0)" />
+      <rect
+         style="opacity:1;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:2.3814;stroke-linecap:square;stroke-linejoin:miter;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:stroke fill markers"
+         id="rect115"
+         width="5.6252255"
+         height="42.861488"
+         x="114.2606"
+         y="24.753151"
+         rx="3.6166174"
+         ry="3.5660563"
+         transform="matrix(0.88527961,0.46505915,-0.55695635,0.83054177,0,0)" />
+    </g>
+    <g
+       id="g115-7"
+       transform="matrix(2.1106839,0,0,2.0367133,-91.872556,-125.16896)"
+       style="mix-blend-mode:normal;fill:#ffffff;fill-opacity:1;stroke:none;stroke-opacity:1;filter:url(#filter144)">
+      <g
+         id="g144">
+        <rect
+           style="opacity:0.936046;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:2.5884;stroke-linecap:square;stroke-linejoin:miter;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:stroke fill markers"
+           id="rect114-6"
+           width="20.947701"
+           height="5.2035689"
+           x="101.74594"
+           y="40.654388"
+           ry="4.7132831"
+           rx="5.0353923"
+           transform="rotate(38.279901)" />
+        <rect
+           style="opacity:1;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:2.3814;stroke-linecap:square;stroke-linejoin:miter;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:stroke fill markers"
+           id="rect115-6"
+           width="5.6252255"
+           height="42.861488"
+           x="114.2606"
+           y="24.753151"
+           rx="3.6166174"
+           ry="3.5660563"
+           transform="matrix(0.88527961,0.46505915,-0.55695635,0.83054177,0,0)" />
+      </g>
+    </g>
+  </g>
+</svg>
