@@ -2,9 +2,9 @@
 .navbar {
     display: flex;
     justify-content: space-between;
-    align-items: center;
+    align-items: flex-start;
     background-color: #ffffff;
-    padding: 1rem;
+    padding: 10px 10px 0px 30px;
   }
   
   .navbar-brand a {
@@ -27,7 +27,6 @@
   .navbar-links a {
     color: rgb(0, 0, 0);
     text-decoration: none;
-    font-size: 1rem;
   }
   
   .navbar-links a:hover {
@@ -36,7 +35,6 @@
 
   .logo-container {
     display: flex; 
-    align-items: center;
     gap:10px; 
   }
 
@@ -45,12 +43,12 @@
     height: 30px;
 }
 
-.logo-container a {
+.logo-container p {
     font-family: 'Inter', sans-serif;
     font-size: 24px;
 }
 
-.logo-container a .highlight {
+.logo-container p .highlight {
     color: #5247FE; /* Exemple de couleur */
     font-size: 26px; /* Exemple de taille différente */
 }
@@ -58,6 +56,7 @@
 .navbar-button {
   display: flex;
   column-gap: 15px; /* Vous pouvez ajuster la valeur de gap selon l'espacement souhaité */
+  align-items: center;
 }
 
 
